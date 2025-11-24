@@ -6,7 +6,7 @@ Simple, single-page landing site for Embutido-King, a Filipino catering business
 
 **Purpose:** Provide a shareable landing page for Facebook group marketing with clear menu and pricing.
 
-**Status:** Initial Version - Ready for deployment
+**Status:** Deployed and Live
 
 ## Business Context
 
@@ -51,6 +51,7 @@ Simple, single-page landing site for Embutido-King, a Filipino catering business
 
 **Frontend:** Pure HTML/CSS (single file)
 **Deployment:** GitHub Pages
+**Live URL:** https://solosza.github.io/embutido-king/
 **Domain:** embutido-king.com (available, not yet registered)
 
 **No frameworks, no build process, no dependencies.**
@@ -95,7 +96,7 @@ git push -u origin main
 1. Push to GitHub
 2. Settings > Pages
 3. Source: main branch, root folder
-4. Site live at: `https://yourusername.github.io/embutido-king/`
+4. Site live at: `https://solosza.github.io/embutido-king/`
 
 ## Project Structure
 
@@ -248,5 +249,5 @@ embutido-king/
 
 ---
 
-**Last Updated:** 2025-11-10
-**Current Status:** Initial build complete, ready for local preview and deployment
+**Last Updated:** 2025-11-22
+**Current Status:** Deployed and live at https://solosza.github.io/embutido-king/
